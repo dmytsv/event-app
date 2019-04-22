@@ -1,0 +1,12 @@
+.ui.segment.segment-header {
+  position: sticky;
+  top: 0;
+  .action-buttons {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    @media screen and (max-width: 991px) {
+      width: 100%;
+    }
+  }
+}

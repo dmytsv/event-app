@@ -1,0 +1,38 @@
+.ui.celled.list {
+  .item {
+    display: flex;
+
+    align-items: stretch;
+    i.icon {
+      align-self: center;
+    }
+    .content {
+      display: inline-block;
+      width: 60%;
+    }
+    .right.floated.content {
+      width: 35%;
+      display: flex;
+      justify-content: flex-end;
+      .button {
+        margin: 0;
+        border-radius: 0;
+        width: 0;
+        padding: 0;
+        opacity: 0;
+        transition-property: all;
+        transition-duration: 0.35s;
+        transition-timing-function: ease-in-out;
+      }
+    }
+    &:hover {
+      .right.floated.content {
+        .button {
+          width: inherit;
+          padding: inherit;
+          opacity: inherit;
+        }
+      }
+    }
+  }
+}
