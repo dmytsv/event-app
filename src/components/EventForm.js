@@ -7,6 +7,7 @@ import {
   patchUpdateEvent,
   hideForm
 } from "../actions";
+import "./EventForm.scss";
 
 class EventForm extends Component {
   constructor(props) {
@@ -41,7 +42,10 @@ class EventForm extends Component {
 
   render() {
     return (
-      <div className="ui container">
+      <div className="ui container segment" id="event-form">
+        <h1 className="ui header">
+          {this.props.showForm === SHOW_EDIT_FORM ? "Edit Event" : "New Event"}
+        </h1>
         <form className="ui form">
           <div className="field">
             <label>Name</label>
