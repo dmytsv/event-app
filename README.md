@@ -1,7 +1,9 @@
 ## CRUD Event App
 
-React/Redux based app. Uses Node/Express based [API server](https://github.com/dmytsv/event-api)
+React/Redux based app. Uses Node/Express based [API server](https://github.com/dmytsv/event-api)<br>
 Styling - Sass and Semantic-UI
+
+## [Working version](https://dmytsv.github.io/event-app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
