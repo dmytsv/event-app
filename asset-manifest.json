@@ -1,13 +1,13 @@
 {
-  "main.css": "/event-app/static/css/main.663b67dc.chunk.css",
-  "main.js": "/event-app/static/js/main.4771591b.chunk.js",
-  "main.js.map": "/event-app/static/js/main.4771591b.chunk.js.map",
+  "main.css": "/event-app/static/css/main.64931efb.chunk.css",
+  "main.js": "/event-app/static/js/main.ef5799ab.chunk.js",
+  "main.js.map": "/event-app/static/js/main.ef5799ab.chunk.js.map",
   "runtime~main.js": "/event-app/static/js/runtime~main.0a7e81ba.js",
   "runtime~main.js.map": "/event-app/static/js/runtime~main.0a7e81ba.js.map",
   "static/js/2.0833c0e2.chunk.js": "/event-app/static/js/2.0833c0e2.chunk.js",
   "static/js/2.0833c0e2.chunk.js.map": "/event-app/static/js/2.0833c0e2.chunk.js.map",
   "index.html": "/event-app/index.html",
-  "precache-manifest.4825ede4e112d95b331bfbfb7319cd14.js": "/event-app/precache-manifest.4825ede4e112d95b331bfbfb7319cd14.js",
+  "precache-manifest.82ece150eb61708c3682923edc9e9e1b.js": "/event-app/precache-manifest.82ece150eb61708c3682923edc9e9e1b.js",
   "service-worker.js": "/event-app/service-worker.js",
-  "static/css/main.663b67dc.chunk.css.map": "/event-app/static/css/main.663b67dc.chunk.css.map"
+  "static/css/main.64931efb.chunk.css.map": "/event-app/static/css/main.64931efb.chunk.css.map"
 }
